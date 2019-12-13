@@ -255,7 +255,7 @@ ServiceFabricBackup/
 *.mdf
 *.ldf
 *.ndf
-
+web.config
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
